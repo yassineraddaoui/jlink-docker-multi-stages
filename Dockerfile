@@ -1,5 +1,5 @@
 # Stage 1: Compilation Stage
-FROM openjdk as compile
+FROM  openjdk:17-alpine as compile
 
 WORKDIR /java
 
