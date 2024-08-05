@@ -1,4 +1,4 @@
-# My Java Mini App with Multi-Stage Dockerfile and jlink
+# Multi-Stage Dockerfile and jlink
 
 This repository contains a simple Java mini application that demonstrates the use of a multi-stage Dockerfile along with the `jlink` command from the Java JDK. The purpose of this project is to create a custom, lightweight Java runtime image tailored specifically for this application, and to leverage Docker's multi-stage builds for efficient and optimized containerization.
 
